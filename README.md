@@ -11,4 +11,4 @@ Prototype E boutique Fun
     - par categories
     - par prix
 
-### 1er etape crée le register
+### 1er etape installer les dependance UX
